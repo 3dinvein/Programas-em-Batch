@@ -1,4 +1,4 @@
-# Copie o comando ou salve este arquivo com a extensão .bat
+# Copie o comando ou salve este arquivo com a extensão Backup.bat
 
 ### Depois edite ele colocando seu caminho de origem e destino.
 
